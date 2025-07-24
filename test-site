@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>你好，GitHub</title>
+  </head>
+  <body>
+    <h1>Hello World!!! GitHub Pages Test</h1>
+	<div id="firstline-livechat-app"></div>
+	<script id="firstline-livechat-script" src="https://hcrm.hcrm.com.tw/livechat.87ed13cc-f60e-4b4e-8e94-8fb6eb9657a1.js?t=1753347739"></script>
+  </body>
+</html>
